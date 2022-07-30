@@ -8,21 +8,21 @@
 
 ### ⌨️ Tecnologias ~ Technologies
 
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="">
-<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" alt="">
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" alt="">
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" alt="">
-<img src="https://img.shields.io/badge/-Apache2-black?style=flat&logo=Apache" alt="">
-<img src="https://img.shields.io/badge/-Linux & CLI-black?style=flat&logo=Linux" alt="">
+![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![](https://img.shields.io/badge/-Apache2-black?style=flat&logo=Apache)
+![](https://img.shields.io/badge/-Linux&CLI-black?style=flat&logo=Linux)
 
 ### 📖 Cosas por aprender ~ Looking forward to learn
 
-<img src="https://img.shields.io/badge/-React JS-black?style=flat&logo=react" alt="">
-<img src="https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack" alt="">
-<img src="https://img.shields.io/badge/-C Language-black?style=flat&logo=C" alt="">
-<img src="https://img.shields.io/badge/-C ++-black?style=flat&logo=C++" alt="">
+![](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=react)
+![](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack)
+![](https://img.shields.io/badge/-C-black?style=flat&logo=C)
+![](https://img.shields.io/badge/-C++-black?style=flat&logo=Cplusplus)
 
 ***
 
