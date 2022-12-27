@@ -1,8 +1,8 @@
 <h2 align="center">👋 Hola ~ Hello</h2>
 
-🇬🇧 ~ Hi, my name is Stefano and I'm from Argentina 🇦🇷 ! I'm into computers and new technologies. I like creating web pages & coding.
+🇬🇧 ~ Hi, my name is Stefano and I'm from Argentina 🇦🇷 ! I'm into computers and new technologies. I like creating web pages, coding, reading & researching.
 
-🇪🇸 ~ Hola, me llamo Stefano, soy de Argentina 🇦🇷 ! Me gusta la computacion y paso el tiempo creando paginas web y programando.
+🇪🇸 ~ Hola, me llamo Stefano, soy de Argentina 🇦🇷 ! Me gusta la computacion y paso el tiempo creando paginas web, programando, leyendo y investigando.
 
 ***
 
@@ -16,13 +16,15 @@
 ![](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![](https://img.shields.io/badge/-Apache2-black?style=flat&logo=Apache)
 ![](https://img.shields.io/badge/-Linux&CLI-black?style=flat&logo=Linux)
+![](https://img.shields.io/badge/-markdown-black?style=flat&logo=markdown)
+![](https://img.shields.io/badge/-less-black?style=flat&logo=less)
 
 ### 📖 Cosas por aprender ~ Looking forward to learn
 
 ![](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=react)
 ![](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack)
-![](https://img.shields.io/badge/-C-black?style=flat&logo=C)
-![](https://img.shields.io/badge/-C++-black?style=flat&logo=Cplusplus)
+![](https://img.shields.io/badge/-svelte-black?style=flat&logo=svelte)
+![](https://img.shields.io/badge/-vuejs-black?style=flat&logo=vuejs)
 
 ***
 
@@ -36,7 +38,7 @@
 
 ### 📲 Contacto ~ Contact
 
-* <a href="https://stefanolomo.github.io/">🖱️ Web</a>
+<!-- * <a href="https://stefanolomo.github.io/">🖱️ Web</a> -->
 
 * <a href="mailto:stefanolomo@protonmail.com">✉️ Mail</a>
 
