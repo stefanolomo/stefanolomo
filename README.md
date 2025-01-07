@@ -42,6 +42,6 @@ Hi, my name is Stefano and I'm from Argentina 🇦🇷. I'm into computers and n
 
 ### 📲 Contacto ~ Contact
 
-- <a href="https://stefanolomo.github.io/">🖱️ Web</a>
+- <a href="https://stefanolomo.github.io/">Portfolio</a>
 
 - <a href="mailto:stefanolomo@protonmail.com">✉️ Mail</a>
