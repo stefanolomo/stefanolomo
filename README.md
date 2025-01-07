@@ -36,15 +36,12 @@ Hi, my name is Stefano and I'm from Argentina 🇦🇷. I'm into computers and n
 
 ### Statistics
 
-![Stefanolomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanolomo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanolomo&theme=tokyonight)
 
 ***
 
 ### 📲 Contacto ~ Contact
 
-<!-- * <a href="https://stefanolomo.github.io/">🖱️ Web</a> -->
+- <a href="https://stefanolomo.github.io/">🖱️ Web</a>
 
-* <a href="mailto:stefanolomo@protonmail.com">✉️ Mail</a>
-
-* <a href="https://platzi.com/p/stefanolomo_/"><img src="https://static.platzi.com/media/platzi-isotipo@2x.png" width="15px" alt=""> Platzi</a>
+- <a href="mailto:stefanolomo@protonmail.com">✉️ Mail</a>
