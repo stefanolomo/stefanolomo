@@ -1,6 +1,6 @@
 Hi, my name is Stefano and I'm from Argentina 🇦🇷. I'm into computers and new technologies. I like creating web pages, coding, analysing data, reading & researching.
 
-👨‍💻 Currently studying Computer Engineer at [UNLP](https://unlp.edu.ar/)
+👨‍💻 Currently studying Computer Engineering at [UNLP](https://unlp.edu.ar/)
 
 🌐 Profficient in English (B2+) and Spanish (Native)
 
