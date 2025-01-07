@@ -1,12 +1,10 @@
-<h2 align="center">👋 Hola ~ Hello</h2>
+Hi, my name is Stefano and I'm from Argentina 🇦🇷. I'm into computers and new technologies. I like creating web pages, coding, analysing data, reading & researching.
 
-🇬🇧 ~ Hi, my name is Stefano and I'm from Argentina 🇦🇷 ! I'm into computers and new technologies. I like creating web pages, coding, reading & researching.
+👨‍💻 Currently studying Computer Engineer at [UNLP](https://unlp.edu.ar/)
+🌐 Profficient in English (B2+) and Spanish (Native)
+📃 Currently studying to sit the Cambridge CAE Exam at [ICAB](https://unlp.edu.ar/)
 
-🇪🇸 ~ Hola, me llamo Stefano, soy de Argentina 🇦🇷 ! Me gusta la computacion y paso el tiempo creando paginas web, programando, leyendo y investigando.
-
-***
-
-### ⌨️ Tecnologias ~ Technologies
+### Technologies
 
 ![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -19,16 +17,17 @@
 ![](https://img.shields.io/badge/-markdown-black?style=flat&logo=markdown)
 ![](https://img.shields.io/badge/-less-black?style=flat&logo=less)
 
-### 📖 Cosas por aprender ~ Looking forward to learn
+### 📖 Looking forward to learn
 
-![](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=react)
-![](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack)
-![](https://img.shields.io/badge/-svelte-black?style=flat&logo=svelte)
-![](https://img.shields.io/badge/-vuejs-black?style=flat&logo=vuejs)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+
 
 ***
 
-### 🚀 Estadísticas ~ Statistics
+### Statistics
 
 ![Stefanolomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanolomo&show_icons=true&theme=tokyonight)
 
