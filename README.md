@@ -1,49 +1,43 @@
-Hi, my name is Stefano and I'm from Argentina 🇦🇷. I'm into computers and new technologies. I like creating web pages, coding, analysing data, reading & researching.
+# 👋 Hi there! I'm Stefano  
 
-👨‍💻 Currently studying Computer Engineering at [UNLP](https://unlp.edu.ar/)
+I'm a **Computer Engineering student at [UNLP](https://unlp.edu.ar/)** from Argentina 🇦🇷. I'm passionate about **technology, coding, web development, and data analysis**. I enjoy **researching, reading, and constantly learning new things** to stay ahead in the tech world.  
 
-🌐 Profficient in English (B2+) and Spanish (Native)
+🔹 **Currently:**  
+🎓 Studying **Computer Engineering** at [UNLP](https://unlp.edu.ar/)  
+📖 Preparing for the **Cambridge CAE Exam** at [ICAB](https://unlp.edu.ar/)  
 
-📃 Currently studying to sit the Cambridge CAE Exam at [ICAB](https://unlp.edu.ar/)
+🌍 **Languages:**  
 
-### Technologies
+- Spanish (Native)
 
-![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![](https://img.shields.io/badge/-Apache2-black?style=flat&logo=Apache)
-![](https://img.shields.io/badge/-Linux&CLI-black?style=flat&logo=Linux)
-![](https://img.shields.io/badge/-markdown-black?style=flat&logo=markdown)
-![](https://img.shields.io/badge/-less-black?style=flat&logo=less)
+- English (Proficient - Cambridge B2+)  
 
-### 📖 Looking forward to learn
+---
 
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
-[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-[![Erlang](https://img.shields.io/badge/Erlang-A90533?logo=erlang&logoColor=fff)](#)
+## 🚀 Technologies I Work With  
 
-***
+![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)  
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
+![](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  
+![](https://img.shields.io/badge/-Git-black?style=flat&logo=git)  
+![](https://img.shields.io/badge/-Linux&CLI-black?style=flat&logo=linux)  
+![](https://img.shields.io/badge/-Apache2-black?style=flat&logo=apache)  
+![](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)  
+![](https://img.shields.io/badge/-Less-black?style=flat&logo=less)  
 
-### Statistics
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanolomo&theme=tokyonight)
+## 📖 Currently Learning  
 
-***
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)  
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)  
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)  
 
-### 📲 Contact
+---
 
-- 🎨 [Portfolio](https://stefanolomo.github.io)
+## 📲 Connect With Me  
 
-- 📬 [Mail](mailto:stefanolomo@protonmail.com)
-
-- 💼 [LinkedIn](www.linkedin.com/in/stefano-l-a1974130a)   
+📌 **Portfolio**: [stefanolomo.github.io](https://stefanolomo.github.io)  
+📧 **Email**: [stefanolomo@protonmail.com](mailto:stefanolomo@protonmail.com)  
+💼 **LinkedIn**: [Stefano L.](https://www.linkedin.com/in/stefano-l-a1974130a)  
