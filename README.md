@@ -12,8 +12,6 @@ I'm a **Computer Engineering student at [UNLP](https://unlp.edu.ar/)** from Arge
 
 - English (Proficient - Cambridge B2+)  
 
----
-
 ## 🚀 Technologies I Work With  
 
 ![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)  
@@ -26,15 +24,11 @@ I'm a **Computer Engineering student at [UNLP](https://unlp.edu.ar/)** from Arge
 ![](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)  
 ![](https://img.shields.io/badge/-Less-black?style=flat&logo=less)  
 
----
-
 ## 📖 Currently Learning  
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)  
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)  
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)  
-
----
 
 ## 📲 Connect With Me  
 
