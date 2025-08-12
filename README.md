@@ -4,7 +4,7 @@
  
  🔹 **Currently:**  
  🎓 Studying **Computer Engineering** at [UNLP](https://unlp.edu.ar/)  
- 📖 Preparing for the **Cambridge CAE Exam** at [ICAB](https://unlp.edu.ar/)  
+ 📖 Preparing for the **Cambridge CAE Exam** at [ICAB](https://icab.org.ar/)  
  
  🌍 **Languages:**  
  
