@@ -11,7 +11,7 @@
  **I speak**  
 
 - ... Spanish, natively
-- ... English at a proficient, B2+ level
+- ... English at a proficient, C1 level
  
  ## 🚀 Languages
  
