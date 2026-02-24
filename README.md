@@ -5,8 +5,6 @@
  🔹 **Currently:**  
  
  🎓 Studying **Computer Engineering** at [UNLP](https://unlp.edu.ar/)
- 
- 📖 Preparing for the **Cambridge CAE Exam** at [ICAB](https://icab.org.ar/)
 
  ⚙️ Building **Rate My Profe Argentina**, a data moat and source of truth for verified Argentine students at [rmp.com.ar](https://rmp.com.ar)
  
